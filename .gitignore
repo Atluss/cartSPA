@@ -3,9 +3,9 @@ node_modules/
 dist/
 npm-debug.log
 yarn-error.log
-.vscode/
 
 # Editor directories and files
+.vscode
 .idea
 *.suo
 *.ntvs*
